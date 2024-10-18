@@ -1,0 +1,4 @@
+{
+    "ignore": ["swagger.json", "node_modules/**", "logs/**"],
+    "ext": "js,json"
+}
